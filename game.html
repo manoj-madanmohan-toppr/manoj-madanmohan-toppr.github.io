@@ -1,0 +1,59 @@
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$("#btn").click(function() {
+chars = $("#char").val()
+count = parseInt($("#len").val())
+resultsComb = new Array();
+combRes = popComb("", chars, resultsComb, count)
+results = new Array();
+for(i =0; i<combRes.length; i++) {
+	results.push(permutation("", combRes[i]))
+}
+
+$("#output").val(results);
+});
+
+function popComb(prefix, remStr, results, len) {
+	for (var i = 0; i < remStr.length; i++) {
+  	charX = remStr.charAt(i);
+    newPref = prefix + (charX)
+    newRemStr = remStr.substring(i+1)
+    if(newPref.length == len) {
+    		results.push(newPref)
+    } else {
+    		popComb(newPref, newRemStr, results, len)
+    }
+	}
+  return results
+}
+
+function permutation(start, string) {
+
+    //base case
+    if ( string.length == 1 ) {
+        return [ start + string ];
+    } else {
+
+        var returnResult = [];
+        for (var i=0; i < string.length; i++) {
+            var result = permutation (string[i], string.substr(0, i) + string.substr(i+1));
+            for (var j=0; j<result.length; j++) {
+                returnResult.push("\n" + start + result[j]);
+            }
+        }
+
+        return returnResult;
+    }
+}
+</script>
+</head>
+<body>
+<input id="char"/>
+<input id="len"/>
+<button id="btn">
+Print
+</button>
+<textarea id="output" style="font-family: Arial;font-size: 12pt;width:100%;height:100vw"/>
+
+</body>
