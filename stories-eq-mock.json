@@ -121,7 +121,7 @@
                 "background_color": null,
                 "id": 10957,
                 "sequence_number": 4,
-                "text": "$$\text{If }\Delta>0\\\text{Both roots of equation are real}$$"
+                "text": "$$\text{If }\Delta>0\\text{Both roots of equation are real}$$"
               },
               {
                 "template_name": "descriptive-card",
@@ -142,7 +142,7 @@
                 "background_color": null,
                 "id": 10958,
                 "sequence_number": 5,
-                "text": "$$\text{If }\Delta=0\\\text{Both roots of equation are real}\\\text{and equal to }$$"
+                "text": "$$\text{If }\Delta=0\\text{Both roots of equation are real}\\\text{and equal to }$$"
               },
               {
                 "template_name": "descriptive-card",
