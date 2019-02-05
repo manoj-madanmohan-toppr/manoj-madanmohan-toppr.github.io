@@ -66,7 +66,7 @@
             "text": "\nA change in flux occurs when the coil is rotated between the magnets with constant angular velocity.\n\n"
           },
           {
-            "template_name": "descriptive-card",
+            "template_name": "dummy-test-card",
             "background_color": null,
             "id": 10957,
             "sequence_number": 9,
