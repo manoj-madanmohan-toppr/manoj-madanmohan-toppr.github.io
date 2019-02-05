@@ -1,1 +1,374 @@
-{"status": "success", "status_code": 200, "message": "", "data": {"story_topic": "Hydro Electric, Thermal and Nuclear Power Stations", "story_id": "3014", "story": [{"title": "Hydro Electric, Thermal and Nuclear Power Stations", "template_name": "title-card", "sub_cards": [], "background_color": null, "id": 10921, "sequence_number": 1}, {"title": "A power station is an industrial facility that generates electric power.\n\n\n", "template_name": "title-card", "sub_cards": [{"template_name": "descriptive-card", "background_color": null, "id": 10951, "sequence_number": 3, "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A35%3A00.516999%2B00%3A00"}], "background_color": null, "id": 10950, "sequence_number": 2}, {"title": "Hydroelectric, thermal, and nuclear power can generate electricity in power stations.\n\n\n", "template_name": "title-card", "sub_cards": [], "background_color": null, "id": 10952, "sequence_number": 4}, {"title": "This is the common process of generation of electricity.\n", "template_name": "title-card", "sub_cards": [{"text": "A permanent magnet has a north pole and a south pole.", "template_name": "descriptive-card", "background_color": null, "id": 10954, "sequence_number": 6, "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A35%3A48.295079%2B00%3A00"}, {"text": "Between the magnets we have a coil with n number of turns.\n", "template_name": "descriptive-card", "background_color": null, "id": 10955, "sequence_number": 7, "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A36%3A18.352433%2B00%3A00"}, {"template_name": "descriptive-card", "background_color": null, "id": 10956, "sequence_number": 8, "text": "\nA change in flux occurs when the coil is rotated between the magnets with constant angular velocity.\n\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10957, "sequence_number": 9, "text": "\nThe change in flux induces EMF. The induced EMF ultimately produces current.\n\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10958, "sequence_number": 10, "text": "\nWe make the coil rotate by connecting it to the shaft of a turbine, which is rotated to produce electric current.\n\n"}, {"text": "This is a turbine.\n", "template_name": "descriptive-card", "background_color": null, "id": 10959, "sequence_number": 11, "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A37%3A36.694638%2B00%3A00"}], "background_color": null, "id": 10953, "sequence_number": 5}, {"title": "We now see how a hydroelectric power station works.\n", "template_name": "title-card", "sub_cards": [{"text": "Water is stored in a dam. \n", "template_name": "descriptive-card", "background_color": null, "id": 10961, "sequence_number": 13, "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A37%3A57.307239%2B00%3A00"}, {"template_name": "descriptive-card", "background_color": null, "id": 10962, "sequence_number": 14, "text": "\nThis water has a huge amount of potential energy as it rises inside the dam.\n\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10963, "sequence_number": 15, "text": "\nThe stored water is made to fall on the turbine. This rotates the shaft of the turbine.\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10964, "sequence_number": 16, "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A38%3A34.607743%2B00%3A00"}, {"template_name": "descriptive-card", "background_color": null, "id": 10965, "sequence_number": 17, "text": "\nThe shaft of the turbine is connected to the coil, which then rotates between two magnets.\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10966, "sequence_number": 18, "text": "\nEMF is induced. This generates electric current. \n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10967, "sequence_number": 19, "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A39%3A11.427352%2B00%3A00"}], "background_color": null, "id": 10960, "sequence_number": 12}, {"title": "Next we examine the working of a thermal power station. \n", "template_name": "title-card", "sub_cards": [{"text": "\nFossil fuels like coal are used in thermal power stations.\n", "template_name": "descriptive-card", "background_color": null, "id": 10969, "sequence_number": 21, "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A39%3A45.833802%2B00%3A00"}, {"template_name": "descriptive-card", "background_color": null, "id": 10970, "sequence_number": 22, "text": "\nWater is converted to hot steam using the coal.\n\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10971, "sequence_number": 23, "text": "\nThe huge pressure of hot steam rotates the turbine. \n\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10972, "sequence_number": 24, "text": "\nAgain the shaft of the turbine is connected to the coil between magnets. Rotation of the coil produces electric current.\n\n"}, {"text": "This is a thermal power station in Mecheda.\n", "template_name": "descriptive-card", "background_color": null, "id": 10973, "sequence_number": 25, "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A40%3A56.078260%2B00%3A00"}], "background_color": null, "id": 10968, "sequence_number": 20}, {"title": "In this way we use the thermal energy of fossil fuels to get electricity.\n", "template_name": "title-card", "sub_cards": [], "background_color": null, "id": 10974, "sequence_number": 26}, {"title": "We now focus on a nuclear power station.\n", "template_name": "title-card", "sub_cards": [{"template_name": "descriptive-card", "background_color": null, "id": 10976, "sequence_number": 28, "text": "\nHere also we use high powered steam. \n\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10977, "sequence_number": 29, "text": "\nThe steam acts on the shaft of the turbine, makes the coil between the two magnets rotate, and we get electricity.\n\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10978, "sequence_number": 30, "text": "\nNuclear fission is used to convert the water into steam. \n\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10979, "sequence_number": 31, "text": "\nThermal energy from nuclear fission converts water into highly pressurized steam.\n\n"}, {"text": "\nThis is a nuclear power station in Bellefonte.\n", "template_name": "descriptive-card", "background_color": null, "id": 10980, "sequence_number": 32, "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A42%3A44.529170%2B00%3A00"}], "background_color": null, "id": 10975, "sequence_number": 27}, {"title": "Revision\n", "template_name": "title-card", "sub_cards": [{"template_name": "descriptive-card", "background_color": null, "id": 10982, "sequence_number": 34, "text": "Hydroelectric, thermal and nuclear power all help generate electricity.\n\n\n\n\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10983, "sequence_number": 35, "text": "A coil between two magnets is connected to the shaft of a turbine, which is rotated by various means to produce electric current.\n\n\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10984, "sequence_number": 36, "text": "Water stored in dams is made to fall on turbines to generate electricity in case of hydroelectric stations. \n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10985, "sequence_number": 37, "text": "In thermal power stations, fossil fuels like coal is used to convert water into hot steam, which moves the turbine and generates electricity.\n"}, {"template_name": "descriptive-card", "background_color": null, "id": 10986, "sequence_number": 38, "text": "Thermal energy from nuclear fission converts water into highly pressurized steam to move the turbine in case of nuclear power stations."}], "background_color": null, "id": 10981, "sequence_number": 33}, {"title": "The End\n", "template_name": "title-card", "sub_cards": [], "background_color": null, "id": 10987, "sequence_number": 39}], "cover_image": ""}}
+{
+  "status": "success",
+  "status_code": 200,
+  "message": "",
+  "data": {
+    "story_topic": "Hydro Electric, Thermal and Nuclear Power Stations",
+    "story_id": "3014",
+    "story": [
+      {
+        "title": "Hydro Electric, Thermal and Nuclear Power Stations",
+        "template_name": "title-card",
+        "sub_cards": [],
+        "background_color": null,
+        "id": 10921,
+        "sequence_number": 1
+      },
+      {
+        "title": "A power station is an industrial facility that generates electric power.\n\n\n",
+        "template_name": "title-card",
+        "sub_cards": [
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10951,
+            "sequence_number": 3,
+            "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A35%3A00.516999%2B00%3A00"
+          }
+        ],
+        "background_color": null,
+        "id": 10950,
+        "sequence_number": 2
+      },
+      {
+        "title": "Hydroelectric, thermal, and nuclear power can generate electricity in power stations.\n\n\n",
+        "template_name": "title-card",
+        "sub_cards": [],
+        "background_color": null,
+        "id": 10952,
+        "sequence_number": 4
+      },
+      {
+        "title": "This is the common process of generation of electricity.\n",
+        "template_name": "title-card",
+        "sub_cards": [
+          {
+            "text": "A permanent magnet has a north pole and a south pole.",
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10954,
+            "sequence_number": 6,
+            "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A35%3A48.295079%2B00%3A00"
+          },
+          {
+            "text": "Between the magnets we have a coil with n number of turns.\n",
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10955,
+            "sequence_number": 7,
+            "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A36%3A18.352433%2B00%3A00"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10956,
+            "sequence_number": 8,
+            "text": "\nA change in flux occurs when the coil is rotated between the magnets with constant angular velocity.\n\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10957,
+            "sequence_number": 9,
+            "text": "\nThe change in flux induces EMF. The induced EMF ultimately produces current.\n\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10958,
+            "sequence_number": 10,
+            "text": "\nWe make the coil rotate by connecting it to the shaft of a turbine, which is rotated to produce electric current.\n\n"
+          },
+          {
+            "text": "This is a turbine.\n",
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10959,
+            "sequence_number": 11,
+            "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A37%3A36.694638%2B00%3A00"
+          },
+          {
+            "text": "Between the magnets we have a coil with n number of turns.\n",
+            "template_name": "equation-card",
+            "id": 1095213,
+            "sequence_number": 12,
+            "sub_cards": [
+              {
+                "text": "$$\text{E.g :}\\x^2+2x+3=0\\-2x^2+5=0\\3x^2+4x=0$$",
+                "template_name": "descriptive-card",
+                "background_color": null,
+                "id": 10954,
+                "sequence_number": 1,
+                "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A35%3A48.295079%2B00%3A00"
+              },
+              {
+                "text": "$$\text{For a quadratic equation }ax^2+bx+c=0\\\text{Roots are }\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$",
+                "template_name": "descriptive-card",
+                "background_color": null,
+                "id": 10955,
+                "sequence_number": 2,
+                "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A36%3A18.352433%2B00%3A00"
+              },
+              {
+                "template_name": "descriptive-card",
+                "background_color": null,
+                "id": 10956,
+                "sequence_number": 3,
+                "text": "$$\text{So, nature of roots depends only on}\\b^2-4ac,\text{ we call it discriminant, denoted}\\\text{with }"\Delta"$$"
+              },
+              {
+                "template_name": "descriptive-card",
+                "background_color": null,
+                "id": 10957,
+                "sequence_number": 4,
+                "text": "$$\text{If }\Delta>0\\\text{Both roots of equation are real}$$"
+              },
+              {
+                "template_name": "descriptive-card",
+                "background_color": null,
+                "id": 10958,
+                "sequence_number": 5,
+                "text": "$$\text{If }\Delta>0\ \& \ \text{is a perfect square, then}\\\text{Both roots of equation are}\\\text{real & rational}$$ "
+              },
+              {
+                "template_name": "descriptive-card",
+                "background_color": null,
+                "id": 10958,
+                "sequence_number": 5,
+                "text": "$$\text{If }\Delta>0\ \&\ \text{not a perfect square, then}\\\text{Both roots of equation are}\\\text{real & irrational}$$"
+              },
+              {
+                "template_name": "descriptive-card",
+                "background_color": null,
+                "id": 10958,
+                "sequence_number": 5,
+                "text": "$$\text{If }\Delta=0\\\text{Both roots of equation are real}\\\text{and equal to }\dfrac{-b}{2a}$$"
+              },
+              {
+                "template_name": "descriptive-card",
+                "background_color": null,
+                "id": 10958,
+                "sequence_number": 5,
+                "text": "$$\text{If }\Delta<0\\\text{Both roots of equation are complex}$$"
+              }
+            ]
+          }
+        ],
+        "background_color": null,
+        "id": 10953,
+        "sequence_number": 5
+      },
+      {
+        "title": "We now see how a hydroelectric power station works.\n",
+        "template_name": "title-card",
+        "sub_cards": [
+          {
+            "text": "Water is stored in a dam. \n",
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10961,
+            "sequence_number": 13,
+            "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A37%3A57.307239%2B00%3A00"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10962,
+            "sequence_number": 14,
+            "text": "\nThis water has a huge amount of potential energy as it rises inside the dam.\n\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10963,
+            "sequence_number": 15,
+            "text": "\nThe stored water is made to fall on the turbine. This rotates the shaft of the turbine.\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10964,
+            "sequence_number": 16,
+            "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A38%3A34.607743%2B00%3A00"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10965,
+            "sequence_number": 17,
+            "text": "\nThe shaft of the turbine is connected to the coil, which then rotates between two magnets.\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10966,
+            "sequence_number": 18,
+            "text": "\nEMF is induced. This generates electric current. \n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10967,
+            "sequence_number": 19,
+            "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A39%3A11.427352%2B00%3A00"
+          }
+        ],
+        "background_color": null,
+        "id": 10960,
+        "sequence_number": 12
+      },
+      {
+        "title": "Next we examine the working of a thermal power station. \n",
+        "template_name": "title-card",
+        "sub_cards": [
+          {
+            "text": "\nFossil fuels like coal are used in thermal power stations.\n",
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10969,
+            "sequence_number": 21,
+            "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A39%3A45.833802%2B00%3A00"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10970,
+            "sequence_number": 22,
+            "text": "\nWater is converted to hot steam using the coal.\n\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10971,
+            "sequence_number": 23,
+            "text": "\nThe huge pressure of hot steam rotates the turbine. \n\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10972,
+            "sequence_number": 24,
+            "text": "\nAgain the shaft of the turbine is connected to the coil between magnets. Rotation of the coil produces electric current.\n\n"
+          },
+          {
+            "text": "This is a thermal power station in Mecheda.\n",
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10973,
+            "sequence_number": 25,
+            "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A40%3A56.078260%2B00%3A00"
+          }
+        ],
+        "background_color": null,
+        "id": 10968,
+        "sequence_number": 20
+      },
+      {
+        "title": "In this way we use the thermal energy of fossil fuels to get electricity.\n",
+        "template_name": "title-card",
+        "sub_cards": [],
+        "background_color": null,
+        "id": 10974,
+        "sequence_number": 26
+      },
+      {
+        "title": "We now focus on a nuclear power station.\n",
+        "template_name": "title-card",
+        "sub_cards": [
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10976,
+            "sequence_number": 28,
+            "text": "\nHere also we use high powered steam. \n\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10977,
+            "sequence_number": 29,
+            "text": "\nThe steam acts on the shaft of the turbine, makes the coil between the two magnets rotate, and we get electricity.\n\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10978,
+            "sequence_number": 30,
+            "text": "\nNuclear fission is used to convert the water into steam. \n\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10979,
+            "sequence_number": 31,
+            "text": "\nThermal energy from nuclear fission converts water into highly pressurized steam.\n\n"
+          },
+          {
+            "text": "\nThis is a nuclear power station in Bellefonte.\n",
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10980,
+            "sequence_number": 32,
+            "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A42%3A44.529170%2B00%3A00"
+          }
+        ],
+        "background_color": null,
+        "id": 10975,
+        "sequence_number": 27
+      },
+      {
+        "title": "Revision\n",
+        "template_name": "title-card",
+        "sub_cards": [
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10982,
+            "sequence_number": 34,
+            "text": "Hydroelectric, thermal and nuclear power all help generate electricity.\n\n\n\n\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10983,
+            "sequence_number": 35,
+            "text": "A coil between two magnets is connected to the shaft of a turbine, which is rotated by various means to produce electric current.\n\n\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10984,
+            "sequence_number": 36,
+            "text": "Water stored in dams is made to fall on turbines to generate electricity in case of hydroelectric stations. \n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10985,
+            "sequence_number": 37,
+            "text": "In thermal power stations, fossil fuels like coal is used to convert water into hot steam, which moves the turbine and generates electricity.\n"
+          },
+          {
+            "template_name": "descriptive-card",
+            "background_color": null,
+            "id": 10986,
+            "sequence_number": 38,
+            "text": "Thermal energy from nuclear fission converts water into highly pressurized steam to move the turbine in case of nuclear power stations."
+          }
+        ],
+        "background_color": null,
+        "id": 10981,
+        "sequence_number": 33
+      },
+      {
+        "title": "The End\n",
+        "template_name": "title-card",
+        "sub_cards": [],
+        "background_color": null,
+        "id": 10987,
+        "sequence_number": 39
+      }
+    ],
+    "cover_image": ""
+  }
+}
