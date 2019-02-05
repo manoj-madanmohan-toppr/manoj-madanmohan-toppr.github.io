@@ -102,7 +102,7 @@
                 "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A35%3A48.295079%2B00%3A00"
               },
               {
-                "text": "$$\text{For a quadratic equation }ax^2+bx+c=0\\\text{Roots are }\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$",
+                "text": "$$\text{For a quadratic equation }ax^2+bx+c=0\\text{Roots are }\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$",
                 "template_name": "descriptive-card",
                 "background_color": null,
                 "id": 10955,
