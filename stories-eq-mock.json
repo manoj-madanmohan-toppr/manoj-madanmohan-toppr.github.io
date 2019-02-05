@@ -102,7 +102,7 @@
                 "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_Hydro%20Electric%2C%20Thermal%20and%20Nuclear%20Power%20Stations/image_2018-12-15%2009%3A35%3A48.295079%2B00%3A00"
               },
               {
-                "text": "$$\text{For a quadratic equation }ax^2+bx+c=0\\text{Roots are }\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$$",
+                "text": "$$\text{For a quadratic equation }ax^2+bx+c=0text{Roots are }frac{sqrt{b^2-4ac}}{2a}$$",
                 "template_name": "descriptive-card",
                 "background_color": null,
                 "id": 10955,
@@ -114,7 +114,7 @@
                 "background_color": null,
                 "id": 10956,
                 "sequence_number": 3,
-                "text": "$$\text{So, nature of roots depends only on}\\b^2-4ac,\text{ we call it discriminant, denoted}\\\text{with }"\Delta"$$"
+                "text": "$$\text{So, nature of roots depends only on}\\b^2-4ac,\text{ we call it discriminant, denoted}\\\text{with }$$"
               },
               {
                 "template_name": "descriptive-card",
@@ -142,7 +142,7 @@
                 "background_color": null,
                 "id": 10958,
                 "sequence_number": 5,
-                "text": "$$\text{If }\Delta=0\\\text{Both roots of equation are real}\\\text{and equal to }\dfrac{-b}{2a}$$"
+                "text": "$$\text{If }\Delta=0\\\text{Both roots of equation are real}\\\text{and equal to }$$"
               },
               {
                 "template_name": "descriptive-card",
