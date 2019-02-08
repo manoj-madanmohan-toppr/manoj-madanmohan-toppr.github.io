@@ -21,11 +21,12 @@
           "title": "Forces can be of different types",
           "sub_cards": [
             {
-              "title": "Forces can be of different types",
+              "title": "Changed Forces can be of different types",
               "sub_cards": [],
               "media-url": "https://concept-stories.s3.ap-south-1.amazonaws.com/test/Stories%20-%20Images_story_9736/image_2019-02-07%2013%3A29%3A07.862840%2B00%3A00",
               "parent_sequence_number": 2,
               "type": "media-url",
+              "text":"this should not be seen"
               "id": 5776,
               "sequence_number": 1
             }
