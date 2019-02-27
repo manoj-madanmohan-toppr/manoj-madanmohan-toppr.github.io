@@ -1,0 +1,174 @@
+{
+  "recent_searches":{
+    "result_count": 10,
+    "search_results": [
+      {
+        "type": "video",
+        "duration": "12:24",
+        "id": 53153,
+        "thumbnail": {
+          "120": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/OXRiV2lhTzc4dFE=/",
+          "240": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/OXRiV2lhTzc4dFE=/mq/",
+          "360": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/OXRiV2lhTzc4dFE=/hq/",
+          "640": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/OXRiV2lhTzc4dFE=/sd/"
+        },
+        "title": "Amino Acids",
+        "youtube_id": "9tbWiaO78tQ"
+      },
+      {
+        "type": "video",
+        "duration": "8:05",
+        "id": 11881,
+        "thumbnail": {
+          "120": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/alNSS3VoVXoxckE=/",
+          "240": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/alNSS3VoVXoxckE=/mq/",
+          "360": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/alNSS3VoVXoxckE=/hq/",
+          "640": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/alNSS3VoVXoxckE=/sd/"
+        },
+        "title": "Abscissic Acid",
+        "youtube_id": "jSRKuhUz1rA"
+      },
+      {
+        "type": "chapter",
+        "chapter_slug": "acids-bases-and-salts",
+        "id": "227279",
+        "subject_name": "Chemistry",
+        "subject_slug": "chemistry",
+        "title": "Acids, Bases and Salts"
+      },
+      {
+        "type": "goal",
+        "chapter_slug": "aldehydes-ketones-and-carboxylic-acids",
+        "id": "227610",
+        "subject_name": "Chemistry",
+        "subject_slug": "chemistry",
+        "title": "Aldehydes, Ketones and Carboxylic Acids"
+      },
+      {
+        "type": "video",
+        "duration": "19:05",
+        "id": 14116,
+        "thumbnail": {
+          "120": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/NHVrNHQxZ0loeTQ=/",
+          "240": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/NHVrNHQxZ0loeTQ=/mq/",
+          "360": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/NHVrNHQxZ0loeTQ=/hq/",
+          "640": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/NHVrNHQxZ0loeTQ=/sd/"
+        },
+        "title": "Acidic Nature of Carboxylic Acids",
+        "youtube_id": "4uk4t1gIhy4"
+      },
+      {
+        "type": "video",
+        "duration": "8:05",
+        "id": 14738,
+        "thumbnail": {
+          "120": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/ZnRSN2x3XzdpWXM=/",
+          "240": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/ZnRSN2x3XzdpWXM=/mq/",
+          "360": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/ZnRSN2x3XzdpWXM=/hq/",
+          "640": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/ZnRSN2x3XzdpWXM=/sd/"
+        },
+        "title": "Acid Base Reaction",
+        "youtube_id": "ftR7lw_7iYs"
+      },
+      {
+        "type": "video",
+        "duration": "5:52",
+        "id": 29360,
+        "thumbnail": {
+          "120": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/cGdQWUgzdC1UMUE=/",
+          "240": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/cGdQWUgzdC1UMUE=/mq/",
+          "360": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/cGdQWUgzdC1UMUE=/hq/",
+          "640": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/cGdQWUgzdC1UMUE=/sd/"
+        },
+        "title": "Acidity of Phenol",
+        "youtube_id": "pgPYH3t-T1A"
+      },
+      {
+        "type": "goal",
+        "chapter_id": 227666,
+        "chapter_name": "Biomolecules",
+        "chapter_slug": "biomolecules",
+        "id": "1488951",
+        "subject_name": "Chemistry",
+        "subject_slug": "chemistry",
+        "title": "Nucleic Acids"
+      },
+      {
+        "type": "chapter",
+        "chapter_id": 227420,
+        "chapter_name": "The p-Block Elements",
+        "chapter_slug": "the-p-block-elements",
+        "id": "1486912",
+        "subject_name": "Chemistry",
+        "subject_slug": "chemistry",
+        "title": "Hydrochloric Acid"
+      },
+      {
+        "type": "video",
+        "duration": "14:16",
+        "id": 15167,
+        "thumbnail": {
+          "120": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/eU9MNm1oMzNIODQ=/",
+          "240": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/eU9MNm1oMzNIODQ=/mq/",
+          "360": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/eU9MNm1oMzNIODQ=/hq/",
+          "640": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/eU9MNm1oMzNIODQ=/sd/"
+        },
+        "title": "Acidic Buffer",
+        "youtube_id": "yOL6mh33H84"
+      },
+      {
+        "type": "video",
+        "duration": "13:10",
+        "id": 15891,
+        "thumbnail": {
+          "120": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/bjh0WnFwc3kyOFU=/",
+          "240": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/bjh0WnFwc3kyOFU=/mq/",
+          "360": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/bjh0WnFwc3kyOFU=/hq/",
+          "640": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/bjh0WnFwc3kyOFU=/sd/"
+        },
+        "title": "Uses of nitric acid",
+        "youtube_id": "n8tZqpsy28U"
+      },
+      {
+        "type": "video",
+        "duration": "8:26",
+        "id": 53152,
+        "thumbnail": {
+          "120": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/YzVUcGtQYW92N0U=/",
+          "240": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/YzVUcGtQYW92N0U=/mq/",
+          "360": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/YzVUcGtQYW92N0U=/hq/",
+          "640": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/YzVUcGtQYW92N0U=/sd/"
+        },
+        "title": "Types of Amino Acids",
+        "youtube_id": "c5TpkPaov7E"
+      },
+      {
+        "type": "video",
+        "duration": "8:13",
+        "id": 10777,
+        "thumbnail": {
+          "120": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/Mjk3b2h1QWdZNTQ=/",
+          "240": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/Mjk3b2h1QWdZNTQ=/mq/",
+          "360": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/Mjk3b2h1QWdZNTQ=/hq/",
+          "640": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/Mjk3b2h1QWdZNTQ=/sd/"
+        },
+        "title": "Preparation of Acids",
+        "youtube_id": "297ohuAgY54"
+      },
+      {
+        "type": "video",
+        "duration": "13:38",
+        "id": 72590,
+        "thumbnail": {
+          "120": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/Y3NxMTFfc2xPR1U=/",
+          "240": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/Y3NxMTFfc2xPR1U=/mq/",
+          "360": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/Y3NxMTFfc2xPR1U=/hq/",
+          "640": "https://d1hhj0t1vdqi7c.cloudfront.net/v1/Y3NxMTFfc2xPR1U=/sd/"
+        },
+        "title": "Ka for Polyprotic Acids",
+        "youtube_id": "csq11_slOGU"
+      }
+    ]
+  },
+  "search_session_id": "4a408560-3a83-11e9-a8a2-d718f5ac8b4a"
+}
