@@ -336,6 +336,13 @@
     "result_count": 10,
     "search_results": [
       {
+        "type":"subject",
+        "id":189870,
+        "icon":"physics",
+        "title":"Physics",
+        "subject_slug":"physics"
+      },
+      {
         "type": "video",
         "duration": "12:24",
         "id": 53153,
@@ -360,6 +367,13 @@
         },
         "title": "Abscissic Acid",
         "youtube_id": "jSRKuhUz1rA"
+      },
+      {
+        "type":"subject",
+        "id":189871,
+        "icon":"chemistry",
+        "title":"Chemistry",
+        "subject_slug":"chemistry"
       },
       {
         "type": "chapter",
