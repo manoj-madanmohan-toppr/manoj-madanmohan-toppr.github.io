@@ -16,6 +16,20 @@
         "youtube_id": "9tbWiaO78tQ"
       },
       {
+        "type":"subject",
+        "id":189870,
+        "icon":"physics",
+        "title":"Physics",
+        "subject_slug":"physics"
+      },
+      {
+        "type":"subject",
+        "id":189871,
+        "icon":"chemistry",
+        "title":"Chemistry",
+        "subject_slug":"chemistry"
+      },
+      {
         "type": "video",
         "duration": "8:05",
         "id": 11881,
